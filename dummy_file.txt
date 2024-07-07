@@ -1,0 +1,7 @@
+Dummy change
+<<<<<<< HEAD
+Dummy change
+=======
+Another dummy line
+>>>>>>> dummy-branch
+Another dummy line
